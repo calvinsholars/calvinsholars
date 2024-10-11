@@ -49,8 +49,9 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
 ## Projects
 
 - **[Coastal Computers](https://ccslo.com)**: Managed over 1,400 IT support tickets, generating significant revenue while leading a team of two.
-- **Lattis Networks**: Configured and maintained networks and servers, enhancing operational efficiency and troubleshooting complex systems.
+- **[Lattis Networks](https://lattisnetworks.com)**: Configured and maintained networks and servers, enhancing operational efficiency and troubleshooting complex systems.
 
 ## Contact
 - 📧 Email: calvinsholars@gmail.com
 - 📱 Phone: (805)-235-6617
+- <a href="https://linkedin.com/in/calvin-sholars-23b0b01b9"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
