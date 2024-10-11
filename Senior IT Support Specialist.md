@@ -18,6 +18,15 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
 
 ## Tools & Knowledge
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows_10-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_11-00A4EF?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Mac_OS-999999?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iOS-999999?&style=for-the-badge&logo=Apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android-3DDC84?&style=for-the-badge&logo=Android&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Cisco-1BA0D7?&style=for-the-badge&logo=Cisco&logoColor=white" />
@@ -30,6 +39,7 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
     <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active_Directory-2672EC?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Office_365-D83B01?&style=for-the-badge&logo=MicrosoftOffice&logoColor=white" />
 </div>
 
 ### Security & Monitoring
