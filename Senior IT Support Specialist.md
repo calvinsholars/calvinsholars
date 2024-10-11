@@ -37,6 +37,7 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
     <img src="https://img.shields.io/badge/-Microsoft_Defender-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Authy-EF3B2D?&style=for-the-badge&logo=Twilio&logoColor=white" />
     <img src="https://img.shields.io/badge/-Datto_AV-007ACC?&style=for-the-badge&logo=Datto&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Malwarebytes-007ACC?&style=for-the-badge&logo=Malwarebytes&logoColor=white" />
 </div>
 
 ## Certifications
@@ -46,10 +47,44 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
     <img src="https://img.shields.io/badge/-Avaya_IP_Office_Implement_Certified-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
-## Projects
 
-- **[Coastal Computers](https://ccslo.com)**: Managed over 1,400 IT support tickets, generating significant revenue while leading a team of two.
-- **[Lattis Networks](https://lattisnetworks.com)**: Configured and maintained networks and servers, enhancing operational efficiency and troubleshooting complex systems.
+## Work Experience
+
+### **[Coastal Computers](https://ccslo.com)** (Senior IT Specialist) 
+*Dates: 2017-2021, 2023-Present*
+
+- Managed server systems, print servers, Active Directory, and database backups.
+- Provided advanced technical support for computers, mobile devices, and network configurations.
+- Supervised two employees and handled over 1,400 tickets, generating $355,925 in revenue.
+  
+### **[Lattis Networks](https://lattisnetworks.com)** (MSP Technician)
+*Dates: 2021-2023*
+
+- Configured networks and managed servers, focusing on Azure Active Directory, VMware, and Office 365 administration.
+- Resolved network and server issues for clients, contributing to operational efficiency.
+
+### Superior Health Care (Patient Service Technician)
+*Dates: 2015-2017*
+
+- Delivered, set up, and maintained medical equipment for patients, ensuring timely service and confidentiality.
+
+### Alorica (Sales & Account Management)
+*Dates: 2014-2015*
+
+- Provided customer service and sales support, consistently meeting performance targets.
+
+## References
+
+- **Xavier Ortiz** - Assistant Director, ITS, Allan Hancock College  
+  Email: xortiz@hancockcollege.edu
+
+- **Larry Gonzales** - Manager, Superior Health Care  
+  Phone: (559) 500-8755  
+  Email: larrygonzales@cchha.com
+
+- **Brad Davis** - Owner, Davis Body Shop  
+  Phone: (805) 423-1617  
+  Email: brad@davisbodyshop.com
 
 ## Contact
 - 📧 Email: calvinsholars@gmail.com
