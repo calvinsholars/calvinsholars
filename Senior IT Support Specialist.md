@@ -8,9 +8,9 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
 
 ## Skills
 
-| Skill                                             | Associated Companies                 |
+| Skills                                             | Associated Companies                |
 |---------------------------------------------------|--------------------------------------|
-| Server Management (Active Directory, Azure, VMware) | Coastal Computers, Lattis Networks   |
+| Server Management (Active Directory, Azure, VMware) | Coastal Computers, Lattis Networks  |
 | Network Configuration (Cisco, Ubiquiti, VPN, Firewalls) | Coastal Computers, Lattis Networks   |
 | Troubleshooting (Computer, Mobile, Network Devices) | Coastal Computers, Lattis Networks   |
 | Customer Service and Team Leadership              | Coastal Computers                    |
