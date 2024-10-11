@@ -16,7 +16,7 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
 | Customer Service and Team Leadership              | Coastal Computers                    |
 | Time Management and Organizational Skills         | Coastal Computers, Lattis Networks   |
 
-## Tools
+## Tools & Knowledge
 
 ### Network
 <div>
