@@ -55,6 +55,8 @@ I am a Senior IT Support Specialist with over seven years of experience in IT sy
 <div>
     <img src="https://img.shields.io/badge/-Google_IT_Support_Specialization-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-Avaya_IP_Office_Implement_Certified-006400?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Foundations_of_Cybersecurity-0000FF?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Play_It_Safe_Manage_Security_Risks-FFA500?&style=for-the-badge&logo=Cybersecurity&logoColor=white" />
 </div>
 
 
